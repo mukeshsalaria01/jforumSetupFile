@@ -1,0 +1,2 @@
+# jforumSetupFile
+Jforum Setup file 
